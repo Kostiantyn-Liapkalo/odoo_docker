@@ -1,3 +1,5 @@
 src
 library
 __pycache__
+.idea
+.env
